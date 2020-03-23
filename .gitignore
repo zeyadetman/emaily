@@ -1,0 +1,4 @@
+emaily-server/node_modules
+emaily-client/node_modules
+emaily-client/.env
+emaily-server/.env
