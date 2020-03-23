@@ -1,0 +1,3 @@
+[submodule "emaily-server"]
+	path = emaily-server
+	url = https://git.heroku.com/fathomless-peak-57759.git
